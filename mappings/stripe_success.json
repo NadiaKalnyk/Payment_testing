@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/v1/payment_intents"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody": {
+      "id": "pi_mock_001",
+      "status": "requires_capture",
+      "amount": 15000,
+      "currency": "usd"
+    }
+  }
+}
