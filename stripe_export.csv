@@ -1,0 +1,13 @@
+id,Created date (UTC),Amount,Amount Refunded,Currency,Captured,Fee,Status
+ch_3RmK101QpcYDzu4Ef,2024-02-05 09:00:00,200.00,0.00,usd,true,6.10,Paid
+ch_3RmK102QpcYDzu4Ef,2024-02-05 10:45:00,65.00,0.00,usd,true,2.19,Paid
+ch_3RmK103QpcYDzu4Ef,2024-02-05 13:30:00,340.00,0.00,usd,true,10.16,Paid
+ch_3RmK104QpcYDzu4Ef,2024-02-06 08:20:00,125.00,25.00,usd,true,3.93,Paid
+ch_3RmK105QpcYDzu4Ef,2024-02-06 11:00:00,89.00,89.00,usd,true,2.88,Refunded
+ch_3RmK106QpcYDzu4Ef,2024-02-06 14:15:00,550.00,0.00,usd,true,16.25,Paid
+ch_3RmK107QpcYDzu4Ef,2024-02-07 09:30:00,42.00,0.00,usd,true,1.52,Paid
+ch_3RmK108QpcYDzu4Ef,2024-02-07 10:00:00,175.00,0.00,usd,false,0.00,Failed
+ch_3RmK109QpcYDzu4Ef,2024-02-07 12:45:00,310.00,0.00,usd,true,9.29,Paid
+ch_3RmK110QpcYDzu4Ef,2024-02-07 15:20:00,28.00,0.00,usd,true,1.11,Paid
+ch_3RmK111QpcYDzu4Ef,2024-02-08 08:00:00,460.00,0.00,usd,true,13.64,Paid
+ch_3RmK112QpcYDzu4Ef,2024-02-08 11:30:00,99.00,0.00,usd,true,3.17,Paid
